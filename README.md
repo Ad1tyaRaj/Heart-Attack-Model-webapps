@@ -22,7 +22,7 @@ To set up the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/heart-attack-prediction.git
+https://github.com/Ad1tyaRaj/Heart-Attack-Model-webapps.git
 
 # Navigate to the project directory
 cd heart-attack-prediction
